@@ -7,4 +7,4 @@ Here, we use the publicly-available database COSMIC to study patterns in the gen
 
 To start, download the entire [COSMIC Mutation Data (Genome Screens)](https://cancer.sanger.ac.uk/cosmic/download). 
 
-[Genome Screens](docs/images/CancerSangerCOSMIC.png).
+![Correct dataset (though others are likely to be compatible as well for code](docs/images/CancerSangerCOSMIC.png).
