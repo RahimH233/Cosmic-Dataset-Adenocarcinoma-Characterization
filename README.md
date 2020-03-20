@@ -7,4 +7,6 @@ Here, we use the publicly-available database COSMIC to study patterns in the gen
 
 To start, download the entire [COSMIC Mutation Data (Genome Screens)](https://cancer.sanger.ac.uk/cosmic/download). 
 
-![Correct dataset (though others are likely to be compatible as well for code](docs/images/CancerSangerCOSMIC.png).
+![Correct dataset (though others are likely to be compatible as well for code](docs/images/CancerSangerCOSMIC.png)
+
+Next, open the [DeepSequencing.ipynb](DeepSequencing.ipynb) notebook. All the following steps should be available in the notebook itself.
