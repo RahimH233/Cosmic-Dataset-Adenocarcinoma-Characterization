@@ -9,4 +9,4 @@ To start, download the entire [COSMIC Mutation Data (Genome Screens)](https://ca
 
 ![Correct dataset (though others are likely to be compatible as well for code](docs/images/CancerSangerCOSMIC.png)
 
-Next, open the [DeepSequencing.ipynb](DeepSequencing.ipynb) notebook. All the following steps should be available in the notebook itself.
+Next, open the [cosmic-dataset-characterization.ipynb](cosmic-dataset-characterization.ipynb) notebook. All the following steps should be available in the notebook itself.
