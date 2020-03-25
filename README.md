@@ -6,3 +6,7 @@ Cancer is a disease in which abnormal cellular proliferation metastasizes to oth
 Here, we use the publicly-available database COSMIC to study patterns in the genomic information of adenocarcinoma samples from various tissue types in order to identify commonly mutated genes and patterns in mutational processes. We found hits in genes that are known to be associated with cancer processes, as well as yet uncharacterized gene products. While we found no central unifying theme in point mutations across all adenocarcinomas, we identified several common features in certain tissue types that could be attributed to well-supported mutational processes. Further investigation into the genomic patterns we identified may aid development of novel therapeutic approaches to adenocarcinoma and other cancers.
 
 To start, download the entire [COSMIC Mutation Data (Genome Screens)](https://cancer.sanger.ac.uk/cosmic/download). 
+
+![Correct dataset (though others are likely to be compatible as well for code](docs/images/CancerSangerCOSMIC.png)
+
+Next, open the [DeepSequencing.ipynb](DeepSequencing.ipynb) notebook. All the following steps should be available in the notebook itself.
